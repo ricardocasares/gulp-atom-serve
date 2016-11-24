@@ -1,6 +1,6 @@
 {
   "name": "gulp-atom-serve",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Serve files using browser-sync",
   "main": "index.js",
   "author": "Ricardo Casares",
