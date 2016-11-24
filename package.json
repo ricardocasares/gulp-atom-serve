@@ -10,7 +10,7 @@
     "url": "https://github.com/ricardocasares/gulp-atom-serve.git"
   },
   "bugs": "https://github.com/ricardocasares/gulp-atom-serve/issues",
-  "devDependencies": {
+  "dependencies": {
     "browser-sync": "^2.18.1"
   }
 }
