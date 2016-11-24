@@ -1,0 +1,16 @@
+{
+  "name": "gulp-atom-serve",
+  "version": "1.0.0",
+  "description": "Serve files using browser-sync",
+  "main": "index.js",
+  "author": "Ricardo Casares",
+  "license": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardocasares/gulp-atom-serve.git"
+  },
+  "bugs": "https://github.com/ricardocasares/gulp-atom-serve/issues",
+  "devDependencies": {
+    "browser-sync": "^2.18.1"
+  }
+}
