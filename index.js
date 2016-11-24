@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'serve',
+  name: 'ac:serve',
   help: 'Serves files using browser-sync',
   task: (gulp, cfg) => function () {
     const bs = require('browser-sync')
